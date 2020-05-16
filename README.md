@@ -2,6 +2,7 @@
 
 **If you are new to Git and GitHub, you can have a read at this:**
 
+Download [Git Bash from here](https://git-scm.com/downloads)
 
 ## How to search for issues
 - Search for tags such as beginner, low-hanging fruit, low-priority, up-for-grabs
