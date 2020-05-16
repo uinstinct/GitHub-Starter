@@ -14,7 +14,7 @@ Download [Git Bash from here](https://git-scm.com/downloads)
 - Read the portion of documentation where the issue has connection with
 - Google search through and check stack-overflow
 
-## Now, let's solve a real-world issue.
+## *Now, let's solve a real-world issue.*
 
 ## Search for relevant projects and join the community
 
